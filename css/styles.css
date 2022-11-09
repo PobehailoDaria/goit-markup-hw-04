@@ -430,6 +430,7 @@ h6 {
 .social-networks-title {
   margin-bottom: 20px;
   font-size: 14px;
+  font-weight: 700;
   line-height: var(--primary-line-height);
   text-transform: uppercase;
   color: var(--white-color);
